@@ -50,6 +50,7 @@ int main(){
 }
 
 
+
 //it will not give you integer overfolw error
 // bool isPalindrome(int x){
 //     // Negative numbers and numbers ending with 0 (except 0) are not palindrome
