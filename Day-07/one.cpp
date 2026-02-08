@@ -17,7 +17,6 @@ int reverse(int x){
 
     return ans;//Return the final reversed number
 }
-
 int main(){
     int x;//Declare an integer variable
     cin>>x;//Take input from user
